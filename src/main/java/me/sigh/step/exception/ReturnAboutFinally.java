@@ -1,4 +1,4 @@
-package sigh.step.ExceptionError;
+package me.sigh.step.exception;
 
 /**
  * Created by wangtingbang on 15/11/6.
