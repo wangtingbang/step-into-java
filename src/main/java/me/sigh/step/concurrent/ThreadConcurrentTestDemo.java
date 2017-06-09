@@ -1,4 +1,4 @@
-package me.sigh.concurrent;
+package me.sigh.step.concurrent;
 
 import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ExecutorService;

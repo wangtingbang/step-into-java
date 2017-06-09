@@ -1,4 +1,4 @@
-package me.sigh.methodcall;
+package me.sigh.step.basic;
 
 import java.util.ArrayList;
 import java.util.List;
